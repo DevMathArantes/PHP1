@@ -1,0 +1,9 @@
+1- O comando "CTRL" + " ' " abre o terminal do VS-Code
+
+2- Digite php X.php para executar o arquivo X.php
+
+3- Site oficial do php: php.net
+
+4- No terminal, o comando "cls" serve para limpar o terminal
+
+5- O comando "CTRL" + "TAB serve para alternar entre arquivos
