@@ -97,5 +97,5 @@
         $X = Y ? Z : N;
         A variável X recebe Z se uma expressão Y for verdadeira e N se for falsa
     */
-    $retorno = $string == "Matheus" ? "\nOlá Matheus\n" : "Olá desconhecido";
+    $retorno = $string == "Matheus" ? "\nOlá Matheus\n" : "\nOlá desconhecido\n";
     echo $retorno;
