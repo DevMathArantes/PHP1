@@ -26,7 +26,7 @@
     for($i = 0; $i < 10; $i++){
         $meuArray[] = $i;
     }
-    $meuArray[] = 11;
+    $meuArray[] = 10;
 
     //count(X) serve para contar quantos elementos o array X possui
     echo "\nMeu array possui " . count($meuArray) . " elementos\n";
@@ -42,7 +42,7 @@
         echo "\n$elemento\n";
     }
 
-    //A função array_sum($X) retorna a soma dos valores dos elementos do array X, exceto o último elemento
+    //A função array_sum($X) retorna a soma dos valores dos elementos do array X
     $soma = array_sum($meuArray);
     echo "\n$soma\n";
     
